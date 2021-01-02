@@ -7,7 +7,7 @@
 <script type="text/javascript" src="https://hoodjs.github.io/animate.js/index.min.js"></script> 
 
 <script type="module">
-  import Animate from "https://hoodjs.github.io/animate.js/index.js"
+  import Animate from "https://hoodjs.github.io/animate.js/index.module.js"
 </script> 
 ```
 
